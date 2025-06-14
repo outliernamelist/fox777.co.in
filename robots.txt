@@ -35,5 +35,5 @@ Disallow:/
 User-agent:meta-externalagent
 Disallow:/
 
-SiteMap: https://www.fox777.win/sitemap.xml
-SiteMap: https://www.fox777.win/images_sitemap.xml
+SiteMap: https://www.fox777.co.in/sitemap.xml
+SiteMap: https://www.fox777.co.in/images_sitemap.xml
